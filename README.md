@@ -1,4 +1,4 @@
-# object_detection_app
+# Object_Detection_App
 
 An Object Detection Application Developed Using Flutter & TensorFlow Lite.
 
