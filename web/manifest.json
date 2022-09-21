@@ -1,11 +1,11 @@
 {
-    "name": "object_detection_app",
-    "short_name": "object_detection_app",
+    "name": "object_detector",
+    "short_name": "object_detector",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "An Object Detection Application Developed Using Flutter.",
+    "description": "An Object Detector Application Developed Using Flutter And TensorFlow Lite.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
