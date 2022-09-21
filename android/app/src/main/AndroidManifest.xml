@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.adhil.object_detection.object_detection_app">
+    package="com.adhil.object_detector">
    <application
-        android:label="object_detection_app"
+        android:label="object_detector"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

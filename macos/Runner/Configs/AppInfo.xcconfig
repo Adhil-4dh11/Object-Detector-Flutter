@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = object_detection_app
+PRODUCT_NAME = object_detector
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.adhil.objectdetection.objectDetectionApp
+PRODUCT_BUNDLE_IDENTIFIER = com.adhil.objectDetector
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2022 com.adhil.object_detection. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2022 com.adhil. All rights reserved.
